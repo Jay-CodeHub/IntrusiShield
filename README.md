@@ -105,7 +105,7 @@ jupyter notebook "CNN based IDS(2023-2024).ipynb"
 
 ## 📊 Results & Accuracy
 
-- CNN model trained on car hacking dataset achieved **high training accuracy (98%) and prediction accuray (86%)** in classifying between benign and malicious signals.
+- CNN model trained on car hacking dataset achieved **high training accuracy (98%) and prediction accuracy (86%)** in classifying between benign and malicious signals.
 - Combined model with rule-checking reduces false negatives.
 - Detailed evaluation and confusion matrix provided in the paper.
 
